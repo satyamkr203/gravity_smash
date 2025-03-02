@@ -1,4 +1,4 @@
-Here’s a **bare minimum** `README.md` for your game:  
+
 
 ---
 
